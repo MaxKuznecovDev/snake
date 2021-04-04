@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'GameBoy';
+    src:url("../fonts/GameBoy.ttf");
+}
+.wrapper_container{
+    background: #91cc70;
+    margin: 0 auto;
+    font-family: 'GameBoy';
+}
+.wrapper_menu{
+    margin: auto;
+    width: 400px;
+}
+.wrapper_score{
+    margin: auto;
+    width: 400px;
+    display: flex;
+    background: #63ab6f;
+    color: #732020;
+}
+.parent{
+    border: 3px solid #495841;
+    margin: auto;
+    width: 400px;
+}
+.box {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: #7db061;
+}
+.line{
+    margin-bottom: -5px;
+}
+.paintUp{
+    background: #333333;
+}
+.wall{
+    background: #732020;
+}
+.food{
+    background-image: url(../img/food.png);
+    background-size: cover;
+}
+.hidden{
+    display: none;
+}
+.wrapper_btn_control{
+    display: flex;
+}
+button{
+
+    margin-right: 3px;
+    background: #7db061;
+    font-family: 'GameBoy';
+
+
+}
+.wrapper_die_message{
+    position: absolute;
+    border: 5px solid red;
+    top: 50px;
+    left: 45%;
+    background: red;
+
+}
