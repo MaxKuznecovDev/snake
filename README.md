@@ -9,7 +9,6 @@
 
 <p align="center">
 
-A fun game to play while waiting for things
 A simple game to play while you're waiting for websites to load! Move the snake around with the arrow keys, eat the target to grow bigger, and avoid hitting your own tail and wall.
 ## How to play
 
