@@ -1,6 +1,6 @@
 <h1 align="center">The Snake</h1>
 
-<h2 align="center"><a  href="http://l95147xk.beget.tech/">Live Demo</a></h2>
+<h2 align="center"><a  href="http://maxsupn0.beget.tech/">Live Demo</a></h2>
 
 
 ## Description
